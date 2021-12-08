@@ -31,6 +31,13 @@
 
 ![image](https://user-images.githubusercontent.com/78165538/145293710-53aeaf39-8406-4568-8030-7d44502ecab4.png)
 
+## 기술 스택
+- 언어 : Javascript, Python
+- 딥러닝 아키텍처 : YOLO v5, pytorch, Google Colab, Roboflow annotate
+- 웹 프론트엔드 : React
+- 웹 백엔드 : NodeJs
+- 기타 : git, Figma, AWS
+
 ## 코드 구성
 
 - YOLO 모델의 성능 테스트 : https://github.com/PowerZolffGirl/Bubbling-Start/tree/main/Material/OD
